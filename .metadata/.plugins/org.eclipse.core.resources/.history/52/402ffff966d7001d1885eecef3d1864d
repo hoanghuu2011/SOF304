@@ -1,0 +1,37 @@
+package poly.edu.Lab6;
+
+import static org.testng.Assert.assertEquals;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+
+
+public class LMS {
+	private String url="https://www.youtube.com/watch?v=qsCk4kW5KAc";
+	WebDriver driver = null;
+	@Test
+	public void test() {
+		driver.manage().window().maximize();
+		driver.get(url);
+		
+		String title =driver.getTitle();
+		String expected="Hệ thống quản trị học tập FPT Polytechnic - Learning Management System: Login to ILIAS";
+		assertEquals(title, expected);
+	}
+	@BeforeTest
+	public void beforeTest() {
+		WebDriverManager.edgedriver().setup();
+		
+		driver = new EdgeDriver();
+	}
+	@AfterTest
+	public void affterTest() {
+		driver.close();
+	}
+}

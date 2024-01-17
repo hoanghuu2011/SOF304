@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: libs/mssql-jdbc-9.4.1.jre16.jar
+Main-Class: com.edusys.ui.EdusysJFrame
+Created-By: Maven Integration for Eclipse
+

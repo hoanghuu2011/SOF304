@@ -1,0 +1,14 @@
+<suite name="suite1" parallel="false">
+<test name="test1">
+<classes>
+<class name="fpoly.TestClass1"/>
+<class name="fpoly.TestClass2"/>
+</classes>
+</test>
+<test name="test2">
+<classes>
+<class name="fpoly.TestClass3"/>
+<class name="fpoly.FactoryInstantiatedTestClass"/>
+</classes>
+</test>
+</suite>

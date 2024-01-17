@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parameters Testing Test Suite">
+	<test name="Parameters testing">
+		<classes>
+		<parameter name="BrowserName" value="Firefox"/>
+	    <parameter name="UserName" value="demo"/>
+	     <parameter name="Passcode" value="PASSWORD"/>
+		<class name="poly.edu.Lab6.ParametersTesting"></class>
+		</classes>
+	</test>
+</suite>

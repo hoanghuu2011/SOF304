@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is e2]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-11T17:39:30 ICT" name="main-suite" finished-at="2023-04-11T17:39:31 ICT" duration-ms="26">
+    <groups>
+      <group name="myGroup">
+        <method signature="TestClass1.t1()[pri:0, instance:fpoly.TestClass1@d4342c2]" name="t1" class="fpoly.TestClass1"/>
+        <method signature="TestClass1.t2()[pri:0, instance:fpoly.TestClass1@d4342c2]" name="t2" class="fpoly.TestClass1"/>
+        <method signature="TestClass1.t3()[pri:0, instance:fpoly.TestClass1@d4342c2]" name="t3" class="fpoly.TestClass1"/>
+      </group> <!-- myGroup -->
+    </groups>
+    <test started-at="2023-04-11T17:39:30 ICT" name="test" finished-at="2023-04-11T17:39:31 ICT" duration-ms="26">
+      <class name="fpoly.TestClass1">
+        <test-method signature="t1()[pri:0, instance:fpoly.TestClass1@d4342c2]" started-at="2023-04-11T17:39:30 ICT" name="t1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method signature="t2()[pri:0, instance:fpoly.TestClass1@d4342c2]" started-at="2023-04-11T17:39:30 ICT" name="t2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method signature="t3()[pri:0, instance:fpoly.TestClass1@d4342c2]" started-at="2023-04-11T17:39:30 ICT" name="t3" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method signature="t4()[pri:0, instance:fpoly.TestClass1@d4342c2]" started-at="2023-04-11T17:39:30 ICT" name="t4" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+        <test-method signature="t5(java.lang.String)[pri:0, instance:fpoly.TestClass1@d4342c2]" started-at="2023-04-11T17:39:30 ICT" name="t5" data-provider="dp" finished-at="2023-04-11T17:39:30 ICT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[one]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+        <test-method signature="t5(java.lang.String)[pri:0, instance:fpoly.TestClass1@d4342c2]" started-at="2023-04-11T17:39:30 ICT" name="t5" data-provider="dp" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[two]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+      </class> <!-- fpoly.TestClass1 -->
+      <class name="fpoly.TestClass2">
+        <test-method signature="c1()[pri:0, instance:fpoly.TestClass2@75329a49]" started-at="2023-04-11T17:39:30 ICT" name="c1" finished-at="2023-04-11T17:39:31 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c1 -->
+        <test-method signature="c2()[pri:0, instance:fpoly.TestClass2@75329a49]" started-at="2023-04-11T17:39:31 ICT" name="c2" finished-at="2023-04-11T17:39:31 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c2 -->
+        <test-method signature="c3()[pri:0, instance:fpoly.TestClass2@75329a49]" started-at="2023-04-11T17:39:31 ICT" name="c3" finished-at="2023-04-11T17:39:31 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c3 -->
+        <test-method signature="c4()[pri:0, instance:fpoly.TestClass2@75329a49]" started-at="2023-04-11T17:39:31 ICT" name="c4" finished-at="2023-04-11T17:39:31 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c4 -->
+      </class> <!-- fpoly.TestClass2 -->
+    </test> <!-- test -->
+  </suite> <!-- main-suite -->
+  <suite started-at="2023-04-11T17:39:30 ICT" name="suite2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="6">
+    <groups>
+    </groups>
+    <test started-at="2023-04-11T17:39:30 ICT" name="test" finished-at="2023-04-11T17:39:30 ICT" duration-ms="6">
+      <class name="fpoly.TestClass4">
+        <test-method signature="e1()[pri:0, instance:fpoly.TestClass4@7ed7259e]" started-at="2023-04-11T17:39:30 ICT" name="e1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e1 -->
+        <test-method signature="e2()[pri:0, instance:fpoly.TestClass4@7ed7259e]" started-at="2023-04-11T17:39:30 ICT" name="e2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is e2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e2 -->
+      </class> <!-- fpoly.TestClass4 -->
+    </test> <!-- test -->
+  </suite> <!-- suite2 -->
+  <suite started-at="2023-04-11T17:39:30 ICT" name="suite1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="144">
+    <groups>
+      <group name="myGroup">
+        <method signature="TestClass1.t1()[pri:0, instance:fpoly.TestClass1@5a63f509]" name="t1" class="fpoly.TestClass1"/>
+        <method signature="TestClass1.t2()[pri:0, instance:fpoly.TestClass1@5a63f509]" name="t2" class="fpoly.TestClass1"/>
+        <method signature="TestClass1.t3()[pri:0, instance:fpoly.TestClass1@5a63f509]" name="t3" class="fpoly.TestClass1"/>
+        <method signature="TestClass3.d1()[pri:0, instance:fpoly.TestClass3@15eb5ee5]" name="d1" class="fpoly.TestClass3"/>
+      </group> <!-- myGroup -->
+    </groups>
+    <test started-at="2023-04-11T17:39:30 ICT" name="test1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="80">
+      <class name="fpoly.TestClass1">
+        <test-method signature="t1()[pri:0, instance:fpoly.TestClass1@5a63f509]" started-at="2023-04-11T17:39:30 ICT" name="t1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method signature="t2()[pri:0, instance:fpoly.TestClass1@5a63f509]" started-at="2023-04-11T17:39:30 ICT" name="t2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method signature="t3()[pri:0, instance:fpoly.TestClass1@5a63f509]" started-at="2023-04-11T17:39:30 ICT" name="t3" finished-at="2023-04-11T17:39:30 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method signature="t4()[pri:0, instance:fpoly.TestClass1@5a63f509]" started-at="2023-04-11T17:39:30 ICT" name="t4" finished-at="2023-04-11T17:39:30 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+        <test-method signature="t5(java.lang.String)[pri:0, instance:fpoly.TestClass1@5a63f509]" started-at="2023-04-11T17:39:30 ICT" name="t5" data-provider="dp" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[one]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+        <test-method signature="t5(java.lang.String)[pri:0, instance:fpoly.TestClass1@5a63f509]" started-at="2023-04-11T17:39:30 ICT" name="t5" data-provider="dp" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[two]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+      </class> <!-- fpoly.TestClass1 -->
+      <class name="fpoly.TestClass2">
+        <test-method signature="c1()[pri:0, instance:fpoly.TestClass2@6e4784bc]" started-at="2023-04-11T17:39:30 ICT" name="c1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c1 -->
+        <test-method signature="c2()[pri:0, instance:fpoly.TestClass2@6e4784bc]" started-at="2023-04-11T17:39:30 ICT" name="c2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c2 -->
+        <test-method signature="c3()[pri:0, instance:fpoly.TestClass2@6e4784bc]" started-at="2023-04-11T17:39:30 ICT" name="c3" finished-at="2023-04-11T17:39:30 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c3 -->
+        <test-method signature="c4()[pri:0, instance:fpoly.TestClass2@6e4784bc]" started-at="2023-04-11T17:39:30 ICT" name="c4" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c4 -->
+      </class> <!-- fpoly.TestClass2 -->
+    </test> <!-- test1 -->
+    <test started-at="2023-04-11T17:39:30 ICT" name="test2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="8">
+      <class name="fpoly.FactoryInstantiatedTestClass">
+        <test-method signature="f()[pri:0, instance:fpoly.FactoryInstantiatedTestClass@2145b572, instance params:[]]" started-at="2023-04-11T17:39:30 ICT" name="f" test-instance-name="FactoryInstantiatedTestClass-TestNG" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f()[pri:0, instance:fpoly.FactoryInstantiatedTestClass@39529185, instance params:[]]" started-at="2023-04-11T17:39:30 ICT" name="f" test-instance-name="FactoryInstantiatedTestClass-Reports" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- fpoly.FactoryInstantiatedTestClass -->
+      <class name="fpoly.TestClass3">
+        <test-method signature="d1()[pri:0, instance:fpoly.TestClass3@15eb5ee5]" started-at="2023-04-11T17:39:30 ICT" name="d1" finished-at="2023-04-11T17:39:30 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d1 -->
+        <test-method signature="d2()[pri:0, instance:fpoly.TestClass3@15eb5ee5]" started-at="2023-04-11T17:39:30 ICT" name="d2" finished-at="2023-04-11T17:39:30 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d2 -->
+      </class> <!-- fpoly.TestClass3 -->
+    </test> <!-- test2 -->
+  </suite> <!-- suite1 -->
+</testng-results>

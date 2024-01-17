@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Feature" parallel="false">
+	<test name="testing">
+		<classes>
+		<parameter name="param" value="' I am beforeMethod'"/>
+		<class name="poly.edu.Lab6.Testcase"></class>
+		</classes>
+	</test>
+</suite>

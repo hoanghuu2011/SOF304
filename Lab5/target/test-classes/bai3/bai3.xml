@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+<test name="testing">
+<groups>
+<run>
+<include name="Regression"/>
+</run>
+</groups>
+<classes>
+<class name="bai3.groupExamples"/>
+</classes>
+</test>
+</suite>

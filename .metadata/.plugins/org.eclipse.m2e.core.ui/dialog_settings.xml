@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="720"/>
+		<item key="y" value="66"/>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\kiemthunangcao\"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="poly.edu.SOFT204_Junit_01"/>
+			<item value="poly.edu.Thi"/>
+			<item value="poly.edu.Lab8"/>
+			<item value="poly.edu.Y5asg"/>
+			<item value="poly.edu.Lab7"/>
+			<item value="poly.edu.Lab6"/>
+			<item value="poly.edu.Lab67"/>
+			<item value="poly.edu.Lab61"/>
+			<item value="poly.edu.demo90"/>
+			<item value="poly.edu.Lab5"/>
+			<item value="poly.edu.Lab4"/>
+			<item value="poly.edu.lab4"/>
+			<item value="poly.Lab3"/>
+		</list>
+		<list key="groupId">
+			<item value="poly.edu"/>
+			<item value="poly"/>
+		</list>
+		<list key="artifactId">
+			<item value="SOFT204_Junit_01"/>
+			<item value="Thi"/>
+			<item value="Lab8"/>
+			<item value="Y5asg"/>
+			<item value="Lab7"/>
+			<item value="Lab6"/>
+			<item value="Lab67"/>
+			<item value="Lab61"/>
+			<item value="demo90"/>
+			<item value="Lab5"/>
+			<item value="Lab4"/>
+			<item value="lab4"/>
+			<item value="Lab3"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="poly.edu"/>
+			<item value="demo0987"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Lab6"/>
+			<item value="demo0987"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

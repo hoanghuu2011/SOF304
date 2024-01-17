@@ -1,0 +1,12 @@
+<suite name="main-suite" parallel="false">
+<suite-files>
+<suite-file path="./suite1.xml"/>
+<suite-file path="./suite2.xml"/>
+</suite-files>
+<test name="test">
+<classes>
+<class name="fpoly.TestClass1"/>
+<class name="fpoly.TestClass2"/>
+</classes>
+</test>
+</suite> 
